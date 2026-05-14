@@ -1,0 +1,35 @@
+Summary: Market Basics
+
+Auctioning Assets:
+Double Sided Auctions:
+Financial markets, such as stock exchanges, operate this way: Traders post bids to buy stock at a specified price and for a given quantity; other traders post offers to sell stock at a specified price and for a given quantity. At any moment in time, this combination of bids to buy and offers to sell is called the order book.
+The bid price is the price at which you can sell shares on a stock exchange.
+The ask price is the price at which you can buy shares on a stock exchange.
+
+Two major forms of double sided auctions:
+Quote Driven: In this system, market specialist traders called market makers post bid and ask prices before orders are submitted
+Order Driven: Orders are placed and only then are prices determined by a matching algorithm. Most of these are limit orders – requests to buy or sell at a stated price and in a stated amount.
+
+Liquidity:
+Liquidity is defined as the ability to execute large trades rapidly at low cost and with limited impact on prices. It can also refer to the volume of orders placed in a market.
+
+Bonds:
+Bonds are a form of loan to a business. The borrower(or business owner) receives the principal from the lender and in return promises to pay a regular interest payment called a coupon. On the bond’s maturity date, the lender gets her principal back. 
+This bond is a financial instrument, which means that the lender can send it to someone else. Then the buyer is entitled to the coupon payments and the principal repayment on maturity.
+Bonds are described as securities as they’re tradable financial assets. They are also known as fixed-income security as, typically, bonds make interest payments that don’t change once they’ve been issued(coupons).
+Bonds can be issued by:
+•	National governments(sovereign bonds)
+•	Local governments(municipal bonds)
+•	Large companies(corporate bonds)
+
+Foreign Exchange:
+Cash in one currency can be exchanged for cash in another currency. This transaction is called foreign exchange(FX). The FX market isn’t organized on an exchange and normally consists of dealers working in banks. 
+This market is the largest financial market in the world with huge volumes of transactions per day.
+Because different currencies have different interest rates, you can potentially make money by:
+•	Selling currency with a low interest rate
+•	Buying currency with a high interest rate
+•	Earning a high interest rate
+Such transactions are called carry trade and are a big factor in influencing foreign exchange rates.
+
+Why This Matters
+These basics matter because every quant strategy depends on how markets actually trade, not just on mathematical signals. Liquidity, execution, spreads, and asset structure all affect whether a strategy can work in real life.
